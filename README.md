@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&width=400&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&width=100000&height=300&section=header&text=capsule%20render&fontSize=90)
 <div align = "center">
 
 ### Hello! Wellcom My Github!👋
