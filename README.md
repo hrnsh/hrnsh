@@ -16,5 +16,5 @@
 
 ## Wait.. this is my state???
 
-[hrnsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrnsh&show_icons=true&theme=radical)
+![hrnsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrnsh&show_icons=true&theme=radical)
 
