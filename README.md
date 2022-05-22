@@ -6,5 +6,7 @@
 Here are some ideas to get you started:
 
 
---><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+-->
 <div> 노는것도 공부다! </div>
+<img src="https://www.ecranlarge.com/media/cache/resolve/1600x1200/uploads/articles/000/000/000/spy-x-family-les-personnages-tatsuya-endo-1351627-large.png"/>
+
