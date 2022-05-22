@@ -16,7 +16,7 @@
 
 ## My Favorite Game (私が好きなゲーム)
 
-![](https://static.metacritic.com/images/products/games/5/bf036353f8b38ff39292ba9cf7f680a9-98.jpg)
+[![](https://static.metacritic.com/images/products/games/5/bf036353f8b38ff39292ba9cf7f680a9-98.jpg)](https://www.metacritic.com/game/playstation-4/tales-of-berseria)
 
 ## My Favorite Animation (私が好きなアニメ)
 <div>
