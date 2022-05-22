@@ -8,7 +8,7 @@
 ## I Like this technology (私が好きな技術)
 
 ## My Recommend Music (私が好きな音楽)
-[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/uLR1RNqJ1Mw?t=0s)
+[![Video Label](http://img.youtube.com/vi/PJRg5ztlsto/maxresdefault.jpg)](https://youtu.be/uLR1RNqJ1Mw?t=0s)
 
 ## My Favorite Game (私が好きなゲーム)
 
