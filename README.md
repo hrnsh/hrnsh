@@ -20,7 +20,7 @@
 
 [![](https://static.metacritic.com/images/products/games/5/bf036353f8b38ff39292ba9cf7f680a9-98.jpg)](https://www.metacritic.com/game/playstation-4/tales-of-berseria)
 [![](https://static.metacritic.com/images/products/games/9/e4c7dbc585abaa821cfabfd32507b834-98.jpg)](https://www.metacritic.com/game/pc/tomb-raider)
-
+[![](https://static.metacritic.com/images/products/games/7/308b6defa2a2ea0fa6ddd8a59e4aa69f-98.jpg)](https://www.metacritic.com/game/pc/metal-gear-solid-v-the-phantom-pain)
 
 ## My Favorite Animation (私が好きなアニメ)
 <div>
