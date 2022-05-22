@@ -16,6 +16,8 @@
 
 ## My Favorite Game (私が好きなゲーム)
 
+[!(https://static.metacritic.com/images/products/games/5/bf036353f8b38ff39292ba9cf7f680a9-98.jpg)]
+
 ## My Favorite Animation (私が好きなアニメ)
 <div>
         <strong>1.</strong><img src="https://i.ytimg.com/vi/KonNI2O7_Wk/maxresdefault.jpg" style=" width : 200px; height : 150px;">&nbsp;
