@@ -2,7 +2,7 @@
 
 ## I Can This!(But I'm not good at it.) (できますがよくはできません)
 ![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity)
-<img src="https://img.shields.io/badge/C++-#00599C?style=flat-square&logo=Swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-#00599C?style=flat-square&logo=C++&logoColor=black"/>
 
 
 ## I Like this technology (私が好きな技術)
