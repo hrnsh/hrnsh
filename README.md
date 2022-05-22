@@ -1,20 +1,20 @@
 ### Hello! Wellcom My Github!👋
 
-## I Can This!(But I'm not good at it.)
+## I Can This!(But I'm not good at it.) (できますがよくはできません)
 
-## I Like this technology
+## I Like this technology (私が好きな技術)
 
-## My Recommend Music
+## My Recommend Music (私が好きな音楽)
 
-## My Favorite Game
+## My Favorite Game (私が好きなゲーム)
 
-## My Favorite Animation ##
+## My Favorite Animation (私が好きなアニメ)
 <div>
         <strong>1.</strong><img src="https://i.ytimg.com/vi/KonNI2O7_Wk/maxresdefault.jpg" style=" width : 200px; height : 150px;">&nbsp;
         <strong>2.</strong><img src="https://image.yes24.com/goods/90114544/XL" style=" width : 100px; height : 150px;">
 </div>
 
-## Wait.. this is my state???
+## Wait.. this is my stat???
 
 ![hrnsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrnsh&show_icons=true&theme=radical)
 
