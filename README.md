@@ -16,4 +16,4 @@
 
 ## Wait.. this is my state???
 
-(https://github-readme-stats.vercel.app/api?username=hrnsh&show_icons=true&theme=radical)
+https://github-readme-stats.vercel.app/api?username=hrnsh&show_icons=true&theme=radical
