@@ -37,6 +37,7 @@
 
 ## Wait.. this is my stat???
 
-![hrnsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrnsh&show_icons=true&theme=radical)[![trophy](https://github-profile-trophy.vercel.app/?username=hrnsh)](https://github.com/ryo-ma/github-profile-trophy)
+![hrnsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrnsh&show_icons=true&theme=radical)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=hrnsh)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
