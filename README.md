@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/made%20width-C++-#00599C?style=flat?logo=C?logoColor=white)
 ![C++](https://img.shields.io/badge/C-language-black?logo=C)
 ![C++](https://img.shields.io/badge/C++-language-black?logo=cplusplus)
-![C++](https://img.shields.io/badge/C#-language-blue?logo=csharp)
+![C++](https://img.shields.io/badge/Csharp-language-blue?logo=csharp)
 
 ## I Like this technology (私が好きな技術)
 
