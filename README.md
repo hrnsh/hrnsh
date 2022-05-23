@@ -11,6 +11,8 @@
 ![C++](https://img.shields.io/badge/Csharp-language-blue?logo=csharp)
 
 ## I Like this technology (私が好きな技術)
+        
+ <img src="https://o.aolcdn.com/images/dims?quality=85&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%252C1000%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1000%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2019-09%252Fffc23e40-dfb7-11e9-bc77-07c0b3de60d2%26client%3Da1acac3e1b3290917d92%26signature%3Dce802f04958fe71bc5383935b03b8967fc6803e1&client=amp-blogside-v2&signature=9819f4555603156b1b287abbf4ab6e77d6761984" style=" width : 200px; height : 150px;">&nbsp;
 
 ## My Recommend Music (私が好きな音楽)
 
