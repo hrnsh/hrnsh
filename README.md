@@ -15,6 +15,10 @@
  <a href="https://www.youtube.com/watch?v=uztFcEA6Rf0" target="_blank">
   <img src="https://o.aolcdn.com/images/dims?quality=85&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%252C1000%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1000%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2019-09%252Fffc23e40-dfb7-11e9-bc77-07c0b3de60d2%26client%3Da1acac3e1b3290917d92%26signature%3Dce802f04958fe71bc5383935b03b8967fc6803e1&client=amp-blogside-v2&signature=9819f4555603156b1b287abbf4ab6e77d6761984" style=" width : 200px; height : 150px;">
 </a>
+ 
+ <a href="https://youtu.be/nkcKaNqfykg" target="_blank">
+  <img src="http://www.earlyadopter.co.kr/wp-content/uploads/2017/01/gatebox-ai-azuma-hikari-for-lonely-people-6.jpg" style=" width : 200px; height : 150px;">
+</a>
         
 ## My Recommend Music (私が好きな音楽)
 
