@@ -20,7 +20,7 @@
   <img src="http://www.earlyadopter.co.kr/wp-content/uploads/2017/01/gatebox-ai-azuma-hikari-for-lonely-people-6.jpg" style=" width : 200px; height : 150px;">
 </a>
  
- <div><br>흔히 핸드 프리라고 하는 기술은 제대로 반응방식을 손봐서 미리 기술적 선점을 해둔다면 VR뿐만 아니라 XR이나MR 및 여러 가상환경의 컨트롤 방식으로 자주 사용될것이다.<br>#<br>
+ <div><br>흔히 핸드 프리라고 하는 기술은 제대로 인식을 손봐서 미리 기술적 선점을 해둔다면 VR뿐만 아니라 XR이나MR 및 여러 가상환경의 컨트롤 방식으로 자주 사용될것이다.(현재로는 아직 인식이 오작동 할 때가 있으며 핸드프리가 적용된 응용프로그램이 적다.)<br>#<br>
  GateBox와 같은 유사 홀로그램의 기술을 더 발전시키고 생산 단가를 줄이고 더 저렴한 가격으로 여러 국가에 수출이 가능하다면 앞으로 나올 홀로그램 하드웨어 대중화의 초석이 될 수 있을것이다.</div>
         
 ## My Recommend Music (私が好きな音楽)
