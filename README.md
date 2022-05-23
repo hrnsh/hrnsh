@@ -6,8 +6,9 @@
 ## I Can This!(But I'm not good at it.) (できますがよくはできません)
 ![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity)
 ![](https://img.shields.io/badge/made%20width-C++-#00599C?style=flat?logo=C?logoColor=white)
-![C++](https://img.shields.io/badge/language-blue?logo=C)
-![C++](https://img.shields.io/badge/language-blue?logo=cplusplus)
+![C++](https://img.shields.io/badge/language-black?logo=C)
+![C++](https://img.shields.io/badge/language-black?logo=cplusplus)
+![C++](https://img.shields.io/badge/language-blue?logo=csharp)
 
 ## I Like this technology (私が好きな技術)
 
