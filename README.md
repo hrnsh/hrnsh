@@ -2,6 +2,8 @@
 <div align = "center">
 
 # Hello! Wellcom My Github!👋
+ 
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhrnsh&count_bg=%2379C83D&title_bg=%231E17DB&icon=&icon_color=%23D92D2D&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 📔I Can This!(But I'm not good at it.) (できますがよくはできません)
 🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛<br>
@@ -49,6 +51,5 @@
 ![hrnsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrnsh&show_icons=true&theme=radical)
  [![hrnsh's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hrnsh&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/hrnsh)
  [![trophy](https://github-profile-trophy.vercel.app/?username=hrnsh)](https://github.com/ryo-ma/github-profile-trophy)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://github.com/hrnsh)
  🐛
 </div>
