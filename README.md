@@ -47,8 +47,7 @@
 ## 😓Wait.. this is my stat???
 
 ![hrnsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrnsh&show_icons=true&theme=radical)
-![Solved.ac
-hrnsh](http://mazassumnida.wtf/api/v2/generate_badge?boj={hrnsh})](https://solved.ac/{hrnsh})
+![Solved.ac hrnsh](http://mazassumnida.wtf/api/v2/generate_badge?boj={hrnsh})](https://solved.ac/hrnsh)
  [![hrnsh's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hrnsh&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/hrnsh)
  [![trophy](https://github-profile-trophy.vercel.app/?username=hrnsh)](https://github.com/ryo-ma/github-profile-trophy)
 
