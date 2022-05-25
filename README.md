@@ -25,7 +25,7 @@
 </a>
  
  <a href="https://youtu.be/yyR4-yqpQw8" target="_blank">
-  <img src="https://www.sciencetimes.co.kr/wp-content/uploads/2018/05/n-Betaboston.jpg" style=" width : 200px; height : 150px;">
+  <img src="https://img.hankyung.com/photo/201907/AA.20079695.1.jpg" style=" width : 200px; height : 150px;">
 </a>
  
  <div><br>오큘러퀘스트2에서 핸드프리라고 하는 핸드 트래킹 기술은 VR뿐만 아니라 XR이나MR 및 여러 가상환경의 컨트롤 방식으로 자주 사용될것이기 때문에 손 인식률을 잘 다듬어서 미리 기술적 선점을 해둔다면 큰 이점이 있을것이다.<br>(현재로는 아직 인식이 오작동 할 때가 많으며 핸드프리가 적용된 응용프로그램이 적다.)<br>#<br>
