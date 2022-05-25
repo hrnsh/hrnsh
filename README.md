@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Wellcome!&fontSize=90)
 <div align = "center">
 
-### Hello! Wellcom My Github!👋
+# Hello! Wellcom My Github!👋
 
-# I Can This!(But I'm not good at it.) (できますがよくはできません)
+## I Can This!(But I'm not good at it.) (できますがよくはできません)
 🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛<br>
 ![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity)
 ![](https://img.shields.io/badge/made%20width-C++-#00599C?style=flat?logo=C?logoColor=white)
