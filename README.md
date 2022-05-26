@@ -24,7 +24,7 @@
   <img src="http://www.earlyadopter.co.kr/wp-content/uploads/2017/01/gatebox-ai-azuma-hikari-for-lonely-people-6.jpg" style=" width : 200px; height : 150px;">
 </a>
  
- <a href="https://youtu.be/yyR4-yqpQw8" target="_blank">
+ <a href="https://youtu.be/PAumO_c0DS0" target="_blank">
   <img src="https://img.hankyung.com/photo/201907/AA.20079695.1.jpg" style=" width : 200px; height : 150px;">
 </a>
  
