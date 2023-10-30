@@ -35,10 +35,10 @@
 ## 🎧My Recommend Music (私が好きな音楽)
 
 
-[![Video Label](http://img.youtube.com/vi/PJRg5ztlsto/1.jpg)](https://youtu.be/PJRg5ztlsto)
-[![Video Label](http://img.youtube.com/vi/z2ha36-5iXk/1.jpg)](https://youtu.be/z2ha36-5iXk)
-[![Video Label](http://img.youtube.com/vi/T59SXQlneLY/1.jpg)](https://youtu.be/T59SXQlneLY)
-[![Video Label](http://img.youtube.com/vi/peewytaLhTs/1.jpg)](https://youtu.be/peewytaLhTs)
+//[![Video Label](http://img.youtube.com/vi/PJRg5ztlsto/1.jpg)](https://youtu.be/PJRg5ztlsto)
+//[![Video Label](http://img.youtube.com/vi/z2ha36-5iXk/1.jpg)](https://youtu.be/z2ha36-5iXk)
+//[![Video Label](http://img.youtube.com/vi/T59SXQlneLY/1.jpg)](https://youtu.be/T59SXQlneLY)
+//[![Video Label](http://img.youtube.com/vi/peewytaLhTs/1.jpg)](https://youtu.be/peewytaLhTs)
 
 ## 🎮My Favorite Game (私が好きなゲーム)
 
@@ -48,8 +48,8 @@
 
 ## 📽️My Favorite Animation (私が好きなアニメ)
 <div>
-        &nbsp<img src="https://i.ytimg.com/vi/KonNI2O7_Wk/maxresdefault.jpg" style=" width : 200px; height : 150px;">&nbsp
-        &nbsp<img src="https://image.yes24.com/goods/90114544/XL" style=" width : 100px; height : 150px;">
+        //&nbsp<img src="https://i.ytimg.com/vi/KonNI2O7_Wk/maxresdefault.jpg" style=" width : 200px; height : 150px;">&nbsp
+       // &nbsp<img src="https://image.yes24.com/goods/90114544/XL" style=" width : 100px; height : 150px;">
 </div>
 
 ## 😓Wait.. this is my stat???
