@@ -6,13 +6,14 @@
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhrnsh&count_bg=%2379C83D&title_bg=%231E17DB&icon=&icon_color=%23D92D2D&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 📔I Can This!(But I'm not good at it.) (できますがよくはできません)
-🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛<br>
+🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛<br>
 ![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity)
 ![](https://img.shields.io/badge/made%20width-C++-#00599C?style=flat?logo=C?logoColor=white)
 ![C++](https://img.shields.io/badge/C-language-black?logo=C)
 ![C++](https://img.shields.io/badge/C++-language-black?logo=cplusplus)
 ![C++](https://img.shields.io/badge/Csharp-language-blue?logo=csharp)
-<br>🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛
+![](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white")
+<br>🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛🐛
 
 ## 🧐I Like this technology (私が好きな技術)
 
