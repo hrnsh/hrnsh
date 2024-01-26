@@ -32,19 +32,7 @@
  GateBox와 같은 유사 홀로그램 비서의 인공지능 기술을 더 발전시키고 생산 단가를 줄이고 더 저렴한 가격으로 여러 국가에 수출이 가능하다면 앞으로 나올 홀로그램 하드웨어 대중화의 초석이 될 수 있을것이다.<br>#<br>
  메카트로닉스 또한 관심을 가지고 보고 있는데 인공근육으로 조명받고 있는 스판덱스에 대한 기술에 관심이 간다. 만약 모터와 스판덱스가 적절히 잘 섞여서 사용된다면 전류가 흐르는 스판덱스의 높아지는 온도를 소스 삼아서 굳이 빅데이터나 인공지능이 필요하지 않고 하드웨어 자체적으로 "아프다" 라던가 "덥다" 같은 느낌을 느끼게 해줄 수 있지 않을까 생각된다.</div>
         
-## 🎧My Recommend Music (私が好きな音楽)
 
-
-
-## 🎮My Favorite Game (私が好きなゲーム)
-
-[![](https://static.metacritic.com/images/products/games/5/bf036353f8b38ff39292ba9cf7f680a9-98.jpg)](https://www.metacritic.com/game/playstation-4/tales-of-berseria)
-[![](https://static.metacritic.com/images/products/games/9/e4c7dbc585abaa821cfabfd32507b834-98.jpg)](https://www.metacritic.com/game/pc/tomb-raider)
-[![](http://img.youtube.com/vi/ESBXOOMi7SE/1.jpg)](https://www.metacritic.com/game/pc/metal-gear-solid-v-the-phantom-pain)
-
-## 📽️My Favorite Animation (私が好きなアニメ)
-<div>
-</div>
 
 ## 😓Wait.. this is my stat???
 
